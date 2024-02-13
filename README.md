@@ -11,7 +11,7 @@ Configured one NIC for external access and another for internal access.
 3. Active Directory Setup
 Added Active Directory Domain Services role.
 Established the domain as "Mydomain.com."
-![alt text](https://imgur.com/3NouoKc)
+![AD1](https://github.com/DrewCrouch1/Active-Directory-Lab/assets/158229796/ef1f3312-e6eb-402c-99ff-9ed4ab9d6e81)
 
 4. User Account Creation
 Created a Domain Admin account with the username "a-dcrouch."
