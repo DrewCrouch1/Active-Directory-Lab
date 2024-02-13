@@ -10,7 +10,7 @@ Configured one NIC for external access and another for internal access.
 2. Active Directory Setup
 Added Active Directory Domain Services role.
 Established the domain as "Mydomain.com."
-![Alt Text](https://imgur.com/3NouoKc)
+![Alt Text](http://imgur.com/3NouoKc)
 4. User Account Creation
 Created a Domain Admin account with the username "a-dcrouch."
 Ran a PowerShell script to generate 1002 user accounts in the Organizational Unit "_Users."
